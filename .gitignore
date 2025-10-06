@@ -1,0 +1,14 @@
+# Plugin directories managed by package managers
+pack/
+
+# Lazy.nvim plugin directory (managed by lazy.nvim)
+.lazy/
+
+# Neovim data files
+*.swp
+*.swo
+*~
+.netrwhist
+
+# macOS
+.DS_Store
